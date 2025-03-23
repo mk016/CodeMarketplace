@@ -2,11 +2,8 @@
 
 ## Project Info
 
-**URL**: [https://codemarketplace.vercel.app/](https://codemarketplace.vercel.app/)
+**URL**: [https://code-marketplace-bay.vercel.app//](https://code-marketplace-bay.vercel.app//)
 
-## youtub Project live demo
-
-**URL**: [https://www.youtube.com/watch?v=Z5lhNN0Ke90](https://www.youtube.com/watch?v=Z5lhNN0Ke90)
 
 This project is built using modern web development technologies to ensure a fast, responsive, and scalable application. Whether you're a developer looking to contribute or a user exploring its features, this guide will help you get started.
 
